@@ -31,7 +31,7 @@ The project includes an executive-ready 3-page Power BI report (`Ecommerce_Sales
 Focuses on macro-level operational health, revenue progression, and regional delivery efficiency.
 * **Key Visuals:** High-level KPI cards (Total Revenue **R$30.45M**, Fulfillment Rate **97.89%**, Avg Delivery Days **12.37**), Monthly Revenue Trend line chart, Revenue by Region, and Delivery Time by State.
 
-![Sales Overview](Sales_Overview.png)
+![Sales Overview](images/Sales_Overview.png)
 
 ---
 
@@ -39,7 +39,7 @@ Focuses on macro-level operational health, revenue progression, and regional del
 Explores category performance, comparing monetary output against item movement.
 * **Key Visuals:** Top Revenue Category (**Furniture Decor** - R$0.75M) vs. Top Volume Category (**Health Beauty** - 2,351 orders), side-by-side bar charts for category distribution, and total category metrics.
 
-![Products Analysis](Products.png)
+![Products Analysis](images/Products.png)
 
 ---
 
@@ -47,7 +47,7 @@ Explores category performance, comparing monetary output against item movement.
 Analyzes purchasing channels, financial behavior, and geographical customer concentration.
 * **Key Visuals:** Payment Breakdown (73.7% Credit Card), Customer distribution by city (**São Paulo** leading), Average Payment Value by type, and interactive Payment Installments filtering.
 
-![Customers and Payments](Customers_and_Payments.png)
+![Customers and Payments](images/Customers_and_Payments.png)
 
 ---
 
