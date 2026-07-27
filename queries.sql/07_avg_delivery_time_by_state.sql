@@ -1,6 +1,6 @@
 -- What is the average delivery time in days for each state, ordered from fastest to slowest?
 
-SELECT`
+SELECT
     round(
         avg(
             EXTRACT(DAY FROM (order_delivered_timestamp::timestamp - order_purchase_timestamp::timestamp))
