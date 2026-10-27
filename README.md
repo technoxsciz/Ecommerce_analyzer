@@ -70,18 +70,13 @@ volume, making it the overwhelmingly dominant payment channel. Wallet payments
 follow at 19.37%, while vouchers and debit cards account for the remaining ~7%.
 
 * **Voucher Anomaly:** Despite the lowest usage share (5.5%), voucher payments 
-carry the **highest average transaction value at R$310** — suggesting vouchers 
+carry the **highest average transaction value at R$310**. This suggests vouchers 
 are applied selectively on high-ticket purchases rather than everyday items.
 
-* **Geographic Concentration:** São Paulo state generates **R$12.9M** in revenue — 
-approximately **42% of total platform revenue** — and São Paulo city alone accounts 
-for approximately **17,000 customers**, making it the single most important market 
-on the platform.
-
-* **Regional Delivery Disparity:** Average delivery time ranges from **8.64 days 
-(São Paulo)** to over **15+ days** for remote northern and northeastern states — 
-driven by geographic distance and logistics infrastructure gaps across Brazil's 
-large territory.
+* **Geographic Concentration:** São Paulo state generates **R$12.9M** in revenue, 
+approximately **42% of total platform revenue**. São Paulo city alone accounts for 
+approximately **17,000 customers**, making it the single most important market on 
+the platform.
 
 * **Seasonal Revenue Spike:** November 2017 recorded the highest single-month 
 revenue (~R$2.8M), consistent with a **Black Friday demand surge**. This represents 
@@ -91,20 +86,25 @@ in purchasing behavior.
 * **Revenue Growth:** Platform revenue grew **13.9% year-over-year from 2017 to 
 2018**, indicating sustained business growth despite the dataset ending in September 
 2018 (partial year).
-  
-* **Category Insight — Revenue vs Volume Divergence:** The top revenue category 
-(**Furniture Decor**, R$0.75M) differs from the top volume category 
-(**Health Beauty**, 2,351 orders) — revealing that high-revenue categories don't 
-necessarily drive high order counts. This suggests furniture carries a higher 
-average price per item while health & beauty drives repeat, lower-value purchases.
+
+* **Category Insight (Revenue vs. Volume Divergence):** The top revenue category 
+(**Furniture Decor** at R$0.75M) differs from the top volume category 
+(**Health Beauty** at 2,351 orders). This reveals that high-revenue categories 
+don't necessarily drive high order counts. Furniture carries a higher average price 
+per item while health and beauty drives repeat, lower-value purchases.
+
+* **Regional Delivery Disparity:** Average delivery time ranges from **8.64 days 
+(São Paulo)** to over **15+ days** for remote northern and northeastern states, 
+driven by geographic distance and logistics infrastructure gaps across Brazil's 
+large territory.
 
 * **Pricing is Category-Driven, Not Weight-Driven:** Linear regression on product 
-weight vs. price returned an **R² of 0.0**, confirming that physical product 
-weight has no predictive power over price. Pricing is determined by product 
-category, not physical attributes.
+weight vs. price returned an **R² of 0.0**, confirming that physical product weight 
+has no predictive power over price. Pricing is determined by product category, not 
+physical attributes.
 
-* **High-Value Customer Cohort:** Approximately **27,000 orders (30%)** exceed 
-the platform's average payment value — indicating a meaningful high-value customer 
+* **High-Value Customer Cohort:** Approximately **27,000 orders (30%)** exceed the 
+platform's average payment value, indicating a meaningful high-value customer 
 segment that could be targeted for loyalty or premium programs.
 
 ## Visualizations
